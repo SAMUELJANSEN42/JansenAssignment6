@@ -1,7 +1,6 @@
-//name: Samuel Jansen
-//description: Assignment 6
-//proposed points: If I neglect to change this comment and the name above, I agree that I will
-// automatically be deducted 1 point (15 out of 15)
+// name:Samuel Jansen
+// description: Assignment 6
+// proposed points: (15 out of 15) 
 // 
 // key bindings are set so that pressing 'W' will make the eye position move in z direction
 //                                       'S' will make the eye position move in -z direction
